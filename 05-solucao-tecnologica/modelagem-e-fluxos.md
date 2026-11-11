@@ -1,4 +1,4 @@
-# Modelagem e Fluxos da Plataforma ConectaInclusão
+# Modelagem e Fluxos da Plataforma Mosaico
 
 ## 1. Apresentação
 
