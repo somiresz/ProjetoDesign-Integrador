@@ -32,7 +32,6 @@ Os materiais produzidos nesta etapa estão organizados da seguinte forma:
 etica-e-ia/
 ├── README.md
 ├── casos-eticos.md
-├── matriz-de-riscos.xlsx
 ├── experimentos-ia.md
 └── recomendacoes.md
 ```
