@@ -1,8 +1,8 @@
-# Requisitos da Plataforma ConectaInclusão
+# Requisitos da Plataforma Mosaico
 
 ## 1. Apresentação
 
-Este documento apresenta os requisitos funcionais e não funcionais previstos para a plataforma ConectaInclusão.
+Este documento apresenta os requisitos funcionais e não funcionais previstos para a plataforma Mosaico.
 
 Os requisitos foram definidos considerando o problema de barreiras na comunicação e educação inclusiva, os objetivos estabelecidos pelo grupo na Etapa 4 e as necessidades dos diferentes usuários da plataforma.
 
