@@ -19,7 +19,7 @@ Este projeto tem como objetivo investigar as exigências do mercado de trabalho 
 - Integrante 1 – Lindsay Soares
 - Integrante 2 – Davi Ataide
 - Integrante 3 – João Vitor Oliveira
-- 
+
 ## Organização do projeto
 
 | Diretório | Conteúdo |
