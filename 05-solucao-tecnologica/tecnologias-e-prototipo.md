@@ -1,4 +1,4 @@
-# Tecnologias e Protótipo da Plataforma ConectaInclusão
+# Tecnologias e Protótipo da Plataforma Mosaico
 
 ## 1. Tecnologias previstas
 
