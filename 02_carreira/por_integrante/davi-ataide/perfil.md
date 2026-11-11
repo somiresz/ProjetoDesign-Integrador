@@ -1,22 +1,34 @@
-README.md
-Olá me chamo Davi Ataíde Gomes 👋
+---
 
-Sou estudante de Analise e Desenvolvimento de Sistemas no Centro Universitário da Unipê e estudante de Segurança da Informação na Uninassau, com interesse na área de full-stack e I.A
+id: 
+etapa: 2
+autor: Davi Ataíde Gomes
+data: 2026-11-06
+status: em-preenchimento
+fontes:
 
-🚀 Sobre mim:
-🎓 Atualmente estudando [Analise e Desenvlvimento de Sistemas e Segurança da Informação / Na área de T.I]
+* F020
+* F021
 
-💻 Aprendendo sobre [Linguagem C / HTML5 e CSS3]
+---
 
-🌱 Buscando oportunidades em [Áreas de full-stack e I.A]
+# Perfil Profissional para o LinkedIn: Davi Ataíde Gomes
 
-⚡ Curiosidade: [Busco sempre evoluir o que ja faço e aprender novas coisas, sei e gosto de trabalhar em equipe.]
+## 1. Título Profissional Estratégico
 
-🛠️ Tecnologias e Ferramentas
-[Python] [HTML5] [CSS3] [C]
+> Desenvolvedor de Software Júnior | Graduando em ADS no UNIPÊ | Java, Spring Boot, TypeScript, React e Node.js
 
-📌 Projetos em destaque
-Projeto: Star Academy ⭐ — É um simples projeto, baseado em criar um site de uma academia para atender a todos os públicos, onde o projeto será o site de atendimento, onde teremos as informações da academia, modalidades e os planos. Um projeto básico de HTML5 e CSS3.
-📫 Contato
-E-mail: davi.gomes07uni@gmail.com
-LinkedIn: [www.linkedin.com/in/davi-ataíde-093b6b433)
+## 2. Resumo Profissional (Sobre Mim)
+
+Sou estudante de Análise e Desenvolvimento de Sistemas no UNIPÊ, em João Pessoa, com foco em desenvolvimento de software backend e interfaces web. Venho aprofundando meus estudos em lógica de programação, orientação a objetos, modelagem de bancos relacionais e integração de APIs RESTful.
+
+No Projeto Integrador da graduação, colaboro na arquitetura do sistema, no desenho das rotas da API e no versionamento com Git e GitHub. Busco escrever código legível, testável e bem estruturado, aprendendo continuamente com os desafios técnicos de cada entrega.
+
+## 3. Principais Competências em Destaque
+
+* **Competências Técnicas:** Java, Spring Boot, JavaScript (ES6+), TypeScript, React, Node.js, SQL (PostgreSQL e MySQL), Git, GitHub, APIs RESTful, Docker básico.
+* **Competências Comportamentais:** Comunicação clara, adaptação a ambientes ágeis (Scrum e Kanban), trabalho em equipe e disciplina de estudo.
+
+## 4. Projetos Práticos em Destaque
+
+* **Projeto Integrador UNIPÊ:** Arquitetura e prototipagem de uma aplicação cívica voltada ao saneamento básico e monitoramento hídrico, com foco em acessibilidade (WCAG) e proteção de dados (LGPD).
