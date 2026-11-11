@@ -1,4 +1,4 @@
-# Histórias de Usuário da Plataforma Conecta Inclusão
+# Histórias de Usuário da Plataforma Mosaico
 
 ## 1. Apresentação
 
