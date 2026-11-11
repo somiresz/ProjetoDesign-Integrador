@@ -1,4 +1,4 @@
-# Responsabilidade Tecnológica da Plataforma ConectaInclusão
+# Responsabilidade Tecnológica da Plataforma Mosaico
 
 ## 1. Apresentação
 
