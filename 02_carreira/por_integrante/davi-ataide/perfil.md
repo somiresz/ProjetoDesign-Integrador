@@ -1,16 +1,5 @@
----
 
-id: 
-etapa: 2
-autor: Davi Ataíde Gomes
-data: 2026-11-06
-status: em-preenchimento
-fontes:
 
-* F020
-* F021
-
----
 
 # Perfil Profissional para o LinkedIn: Davi Ataíde Gomes
 
