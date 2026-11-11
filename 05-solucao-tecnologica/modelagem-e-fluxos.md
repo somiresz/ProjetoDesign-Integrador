@@ -12,7 +12,7 @@ O diagrama apresenta os principais módulos da plataforma e suas relações.
 
 ```mermaid
 flowchart TD
-    A[Plataforma ConectaInclusão] --> B[Área do Estudante]
+    A[Plataforma Mosaico] --> B[Área do Estudante]
     A --> C[Área do Professor]
     A --> D[Área da Família]
     A --> E[Área do Profissional de Apoio]
