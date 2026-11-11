@@ -2,33 +2,42 @@
 
 ## 1. Apresentação
 
-Esta etapa tem como objetivo investigar problemas sociais ou ambientais que possam ser minimizados por meio de soluções tecnológicas.
+Esta etapa tem como objetivo identificar e investigar problemas sociais ou ambientais que possam ser minimizados por meio do desenvolvimento de uma solução tecnológica.
 
-O grupo identificou diferentes problemas, analisou suas causas, consequências e públicos afetados e realizou uma comparação para selecionar aquele que será trabalhado nas próximas etapas do projeto.
+O grupo realizou o levantamento de três problemas, considerando sua relevância social, principais causas, públicos afetados e soluções tecnológicas já existentes.
 
-## 2. Problema selecionado
+Após a investigação, foi elaborada uma matriz comparativa para avaliar as alternativas e selecionar o problema que será trabalhado nas próximas etapas do Projeto Integrador.
 
-**Barreiras na Comunicação e Educação Inclusiva**
+## 2. Problemas investigados
 
-O problema está relacionado às dificuldades enfrentadas por estudantes com deficiência, neurodivergências e outras necessidades específicas para acessar materiais, acompanhar atividades escolares e participar plenamente do ambiente educacional.
+Foram selecionados três problemas para análise:
 
-## 3. Atividades desenvolvidas
+1. Barreiras de acessibilidade digital.
+2. Falta de mobilidade urbana e acessibilidade física.
+3. Barreiras na comunicação e educação inclusiva.
 
-- Identificação de pelo menos três problemas sociais ou ambientais.
-- Investigação das causas e consequências dos problemas.
-- Identificação dos públicos afetados.
-- Pesquisa de soluções tecnológicas existentes.
-- Construção de uma matriz comparativa.
-- Seleção e justificativa do problema prioritário.
-- Definição dos objetivos e resultados esperados.
-- Identificação das limitações da proposta.
+## 3. Matriz comparativa
 
-## 4. Organização dos arquivos
+Os problemas foram avaliados considerando cinco critérios:
 
-- **problemas-investigados.md:** descrição dos problemas, suas causas, consequências, públicos afetados e soluções existentes.
-- **matriz-comparativa.md:** comparação dos problemas e critérios utilizados na seleção.
-- **problema-selecionado.md:** justificativa da escolha, delimitação, objetivos e limitações da proposta.
+- Relevância social e impacto na população.
+- Viabilidade técnica para o grupo de TI.
+- Foco em acessibilidade e inclusão.
+- Sustentabilidade e escalabilidade da solução.
+- Baixo risco operacional e de execução.
 
-## 5. Resultado esperado
+A pontuação atribuída a cada critério varia de 1 a 5, totalizando no máximo 25 pontos.
 
-Apresentar um diagnóstico fundamentado do problema selecionado, demonstrando sua relevância social e a possibilidade de desenvolver uma solução tecnológica inclusiva e responsável.
+## 4. Problema selecionado
+
+O grupo selecionou o problema **Barreiras na Comunicação e Educação Inclusiva**, que será utilizado como base para o desenvolvimento da solução tecnológica.
+
+A escolha considera a necessidade de ampliar a acessibilidade no ambiente escolar, facilitar a comunicação de estudantes com diferentes necessidades e oferecer recursos de apoio aos educadores.
+
+A descrição detalhada, a justificativa da escolha, os objetivos e as limitações estão disponíveis em [problema-selecionado.md](problema-selecionado.md).
+
+## 5. Resultado da etapa
+
+Como resultado da investigação, o grupo definiu o problema social que orientará o desenvolvimento da proposta tecnológica nas próximas etapas do projeto.
+
+A solução planejada deverá considerar as necessidades dos estudantes, educadores, familiares e profissionais de apoio, priorizando a comunicação assistiva e o apoio pedagógico inclusivo.
