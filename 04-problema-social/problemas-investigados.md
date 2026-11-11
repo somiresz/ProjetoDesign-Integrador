@@ -83,5 +83,3 @@ Entre as soluções registradas na investigação estão:
 Os três problemas apresentam impactos importantes na acessibilidade e na inclusão social. Embora estejam relacionados a contextos diferentes, todos demonstram como a tecnologia pode contribuir para reduzir barreiras e ampliar a autonomia das pessoas.
 
 Após a comparação das alternativas, o grupo optou por trabalhar com as barreiras na comunicação e educação inclusiva, considerando a possibilidade de desenvolver uma plataforma que integre recursos de comunicação assistiva e apoio pedagógico.
-
-**Observação:** os exemplos de soluções tecnológicas foram registrados na planilha de investigação do grupo. Os links e fontes específicas de cada solução deverão ser acrescentados para documentar a pesquisa.
