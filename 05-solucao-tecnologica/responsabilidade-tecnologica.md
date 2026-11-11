@@ -2,7 +2,7 @@
 
 ## 1. Apresentação
 
-A plataforma ConectaInclusão será planejada considerando a necessidade de promover acessibilidade, privacidade, segurança, inclusão e sustentabilidade durante seu desenvolvimento e utilização.
+A plataforma Mosaico será planejada considerando a necessidade de promover acessibilidade, privacidade, segurança, inclusão e sustentabilidade durante seu desenvolvimento e utilização.
 
 Como a solução envolve estudantes, incluindo menores de idade, e informações relacionadas à rotina educacional, será necessário estabelecer limites claros para o acesso e o compartilhamento de dados.
 
