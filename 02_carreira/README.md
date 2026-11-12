@@ -1,5 +1,20 @@
 # 02 – Identidade Profissional e Planejamento de Carreira
 
+# Matriz de Autoavaliação e Competência
+
+| Nº | Competência | Conhecimento Atual | Lacuna de Aprendizagem | Ação Recomendada / Estratégia |
+|:---:|:---|:---|:---|:---|
+| 1 | HTML5 / CSS3 | Avançado (criação de layouts responsivos e estilização) | Animações CSS complexas e acessibilidade web (WCAG 2.2) | Estudar e aplicar as diretrizes do eMAG em um projeto prático. |
+| 2 | JavaScript / ES6+ | Intermediário (sintaxe, DOM, manipulação de arrays e Promises) | Manipulação avançada de assincronismo (Event Loop, Async/Await) | Realizar exercícios práticos e módulos do freeCodeCamp. |
+| 3 | React.js | Básico (componentes, props e gerenciamento de estado simples) | Gerenciamento de estado global (Context API / Redux) | Construir uma aplicação web com consumo de API REST. |
+| 4 | Node.js / Express | Básico (criação de rotas HTTP e servidores simples) | Padrões de arquitetura (MVC), middlewares e autenticação JWT | Acompanhar tutoriais de backend e construir uma API completa. |
+| 5 | SQL e Bancos de Dados | Intermediário (queries SELECT, JOIN, INSERT, UPDATE) | Otimização de consultas, modelagem avançada e Procedures | Praticar modelagem de banco de dados relacional e consultas complexas. |
+| 6 | Git / GitHub | Intermediário (commits, push, pull, gerenciamento de branches) | Resolução de conflitos complexos e fluxo Git Flow em equipe | Simular fluxos colaborativos no repositório do Projeto Integrador. |
+| 7 | Testes de Software | Inicial / Nulo | Conceitos de testes unitários e de integração (Jest, PHPUnit) | Concluir curso gratuito de testes de software e aplicar no código. |
+| 8 | Inteligência Artificial | Básico (uso de LLMs como ChatGPT/Copilot para suporte) | Integração via API de modelos e Engenharia de Prompt avançada | Estudar documentação da API OpenAI/Gemini e testar chamadas em Python. |
+| 9 | Trabalho em Equipe | Desenvolvido em projetos acadêmicos e atividades em grupo | Gestão de divergências e prática formal de Code Review | Liderar a organização e revisão das entregas com os integrantes. |
+| 10 | Comunicação Técnica | Boa comunicação escrita e clareza em relatórios | Apresentação oral objetiva para públicos não técnicos | Participar ativamente das reuniões e simulações de defesa oral. |
+
 ## Objetivo
 
 Identificar as competências profissionais dos integrantes do grupo, reconhecer conhecimentos já adquiridos e lacunas de aprendizagem e estabelecer estratégias para o desenvolvimento de carreira na área de Tecnologia da Informação.
