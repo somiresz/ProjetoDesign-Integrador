@@ -1,0 +1,31 @@
+| Tipo de Competência | Competência Padronizada | Full Stack (N=5) | Front End (N=5) | Back End (N=5) | Análise de Dados (N=5) | Total Absoluto (N=20) | Frequência Relativa (%) |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| Técnica | JavaScript / ES6+ | 5 | 5 | 0 | 0 | 10 | 50% |
+| Técnica | HTML5 / CSS3 | 3 | 5 | 0 | 0 | 8 | 40% |
+| Técnica | React / React.js | 2 | 3 | 0 | 0 | 5 | 25% |
+| Técnica | Vue.js | 1 | 2 | 0 | 0 | 3 | 15% |
+| Técnica | Angular | 1 | 1 | 1 | 0 | 3 | 15% |
+| Técnica | PHP | 2 | 1 | 0 | 0 | 3 | 15% |
+| Técnica | Python | 1 | 1 | 1 | 4 | 7 | 35% |
+| Técnica | Java / Spring Boot | 0 | 0 | 3 | 0 | 3 | 15% |
+| Técnica | C# / .NET | 1 | 0 | 2 | 0 | 3 | 15% |
+| Técnica | Node.js / Express / Nest | 1 | 0 | 0 | 0 | 1 | 5% |
+| Técnica | Git / GitHub / Versionamento | 5 | 5 | 4 | 0 | 14 | 70% |
+| Técnica | APIs RESTful / WebAPI / GraphQL | 3 | 2 | 4 | 0 | 9 | 45% |
+| Técnica | Bancos de Dados Relacionais (SQL / Postgres / MySQL) | 4 | 2 | 5 | 5 | 16 | 80% |
+| Técnica | Power BI / Tableau / Cognos / Dashboards | 0 | 0 | 0 | 5 | 5 | 25% |
+| Técnica | Databricks / Data Warehouse / Cloud | 0 | 0 | 0 | 4 | 4 | 20% |
+| Técnica | Excel / Google Sheets Avançado | 0 | 0 | 0 | 2 | 2 | 10% |
+| Técnica | Estatística / Preditiva / R / SAS | 0 | 0 | 0 | 2 | 2 | 10% |
+| Técnica | Docker / Containers / Kubernetes | 2 | 0 | 0 | 0 | 2 | 10% |
+| Técnica | CI/CD e DevOps (Jenkins, GitLab) | 1 | 1 | 0 | 0 | 2 | 10% |
+| Técnica | Inteligência Artificial / GenAI / LLMs | 2 | 0 | 0 | 2 | 4 | 20% |
+| Técnica | Testes de Software / Testes Unitários | 2 | 2 | 2 | 0 | 6 | 30% |
+| Técnica | Design Systems / Figma / UX Responsivo | 0 | 4 | 0 | 0 | 4 | 20% |
+| Comportamental | Trabalho em Equipe e Colaboração | 4 | 5 | 4 | 4 | 17 | 85% |
+| Comportamental | Comunicação Clara e Eficaz (com não técnicos) | 3 | 4 | 3 | 5 | 15 | 75% |
+| Comportamental | Proatividade e Vontade de Aprender | 5 | 5 | 4 | 4 | 18 | 90% |
+| Comportamental | Raciocínio Lógico e Investigativo | 3 | 3 | 3 | 5 | 14 | 70% |
+| Comportamental | Atenção aos Detalhes e Organização | 3 | 4 | 2 | 3 | 12 | 60% |
+| Comportamental | Visão de Negócios / Entendimento de Processos | 1 | 0 | 2 | 5 | 8 | 40% |
+| Comportamental | Foco na Experiência do Usuário (UX/UI) | 1 | 4 | 1 | 0 | 6 | 30% |
