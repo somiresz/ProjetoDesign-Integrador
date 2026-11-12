@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ponte Inclusiva – Protótipo simples</title>
+<style>
+:root{--ink:#14213d;--bg:#f2f5fb;--pri:#2b3a8c;--bd:#c5cde3}
+*{box-sizing:border-box}
+body{margin:0;font:18px/1.5 Verdana,Arial,sans-serif;background:var(--bg);color:var(--ink)}
+:focus-visible{outline:4px solid #ffc93c;outline-offset:2px}
+header{background:var(--pri);color:#fff;padding:1rem;text-align:center}
+header h1{margin:0;font-size:1.4rem}
+nav{display:flex;flex-wrap:wrap;gap:.5rem;justify-content:center;padding:.8rem;background:#fff;border-bottom:2px solid var(--bd)}
+nav a{color:var(--pri);font-weight:bold;padding:.3rem .7rem;border:2px solid var(--pri);border-radius:2rem;text-decoration:none}
+main{max-width:760px;margin:0 auto;padding:1rem}
+section{background:#fff;border:2px solid var(--bd);border-radius:1rem;padding:1.2rem;margin:1.2rem 0}
+h2{margin:0 0 .6rem;font-size:1.3rem;color:var(--pri)}
+label{display:block;font-weight:bold;margin:.8rem 0 .2rem}
+input,select,textarea{width:100%;font:inherit;padding:.6rem;border:2px solid #4a5670;border-radius:.5rem}
+button{font:inherit;font-weight:bold;background:var(--pri);color:#fff;border:2px solid var(--pri);border-radius:.6rem;padding:.6rem 1rem;cursor:pointer;margin:.4rem .3rem 0 0}
+button.sec{background:#fff;color:var(--pri)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(110px,1fr));gap:.7rem}
+.grid button{background:#fff;color:var(--ink);border:3px solid var(--bd);border-radius:1rem;padding:.7rem .3rem;margin:0}
+.grid button span{display:block;font-size:2.4rem}
+.faixa{min-height:4rem;border:3px dashed var(--pri);border-radius:1rem;padding:.6rem;font-size:2rem}
+.frase{font-size:1.4rem;font-weight:bold;min-height:2rem}
+.lista li{margin:.4rem 0}
+fieldset{border:2px solid var(--bd);border-radius:.6rem;margin-top:1rem}
+fieldset label{font-weight:normal;display:flex;gap:.5rem;align-items:center;margin:.3rem 0}
+fieldset input{width:1.2rem;height:1.2rem}
+.aviso{background:#e3e8fa;border-left:6px solid #ffc93c;padding:.6rem 1rem;border-radius:.4rem}
+</style>
+</head>
+<body>
+<header><h1>🌉 Ponte Inclusiva</h1></header>
+
+<nav aria-label="Telas">
+<a href="#t1">1 Acesso</a><a href="#t2">2 Professor</a><a href="#t3">3 Comunicação</a><a href="#t4">4 Mensagem</a>
+<a href="#t5">5 Materiais</a><a href="#t6">6 Adaptação</a><a href="#t7">7 Registros</a><a href="#t8">8 Família</a>
+</nav>
+
+<main>
+
+<section id="t1" aria-labelledby="h1">
+<h2 id="h1">Tela 1 – Acesso à plataforma</h2>
+<form onsubmit="event.preventDefault();alert('Acesso simulado.')">
+<label for="u">E-mail ou matrícula</label><input id="u" type="text" autocomplete="username">
+<label for="s">Senha</label><input id="s" type="password" autocomplete="current-password">
+<label for="p">Entrar como</label>
+<select id="p"><option>Professor</option><option>Estudante</option><option>Família ou profissional</option></select>
+<button type="submit">Entrar</button>
+</form>
+</section>
+
+<section id="t2" aria-labelledby="h2">
+<h2 id="h2">Tela 2 – Painel principal do professor</h2>
+<p>Olá, professora Marina. Turma: 5º ano B.</p>
+<ul class="lista">
+<li><a href="#t5">📚 Materiais pedagógicos</a></li>
+<li><a href="#t6">✨ Adaptações (1 aguardando revisão)</a></li>
+<li><a href="#t7">📝 Registros</a></li>
+<li><a href="#t8">🔔 Atualizações</a></li>
+</ul>
+</section>
+
+<section id="t3" aria-labelledby="h3">
+<h2 id="h3">Tela 3 – Painel de comunicação do estudante</h2>
+<p>Toque nas figuras para montar sua mensagem.</p>
+<div class="grid" id="simbolos"></div>
+</section>
+
+<section id="t4" aria-labelledby="h4">
+<h2 id="h4">Tela 4 – Construção de mensagens</h2>
+<div class="faixa" id="faixa" aria-live="polite">Nenhum item escolhido.</div>
+<p class="frase" id="frase" aria-live="polite"></p>
+<button id="ouvir">🔊 Ouvir mensagem</button>
+<button class="sec" id="limpar">Limpar</button>
+</section>
+
+<section id="t5" aria-labelledby="h5">
+<h2 id="h5">Tela 5 – Organização de materiais pedagógicos</h2>
+<form onsubmit="event.preventDefault();alert('Material incluído (simulado).')">
+<label for="m">Título do material</label><input id="m" type="text">
+<label for="d">Disciplina</label>
+<select id="d"><option>Português</option><option>Matemática</option><option>Ciências</option></select>
+<button type="submit">Incluir material</button>
+</form>
+<ul class="lista">
+<li>Frações com figuras – Matemática</li>
+<li>Texto: O ciclo da água – Ciências</li>
+<li>Poema ilustrado – Português</li>
+</ul>
+</section>
+
+<section id="t6" aria-labelledby="h6">
+<h2 id="h6">Tela 6 – Adaptação e revisão de conteúdo</h2>
+<p class="aviso">Sugestão gerada por inteligência artificial. Revise e edite antes de aprovar.</p>
+<label for="o">Texto original</label>
+<textarea id="o" rows="3" readonly>A evaporação ocorre quando a água dos rios e mares é aquecida pelo sol e vira vapor, formando nuvens por condensação.</textarea>
+<label for="a">Texto adaptado (editável)</label>
+<textarea id="a" rows="4">O sol aquece a água. ☀️
+A água vira vapor e sobe. ⬆️
+O vapor esfria e forma nuvens. ☁️</textarea>
+<button onclick="alert('Adaptação aprovada.')">Aprovar</button>
+<button class="sec" onclick="alert('Sugestão descartada.')">Descartar</button>
+</section>
+
+<section id="t7" aria-labelledby="h7">
+<h2 id="h7">Tela 7 – Registros pedagógicos e compartilhamento</h2>
+<form onsubmit="event.preventDefault();alert('Registro salvo e compartilhado.')">
+<label for="r">Observação</label>
+<textarea id="r" rows="4" placeholder="Ex.: Hoje Lucas montou frases de três símbolos."></textarea>
+<fieldset>
+<legend>Compartilhar com</legend>
+<label><input type="checkbox" checked> Família</label>
+<label><input type="checkbox"> Fonoaudióloga</label>
+<label><input type="checkbox"> Professor do AEE</label>
+</fieldset>
+<button type="submit">Salvar e compartilhar</button>
+</form>
+</section>
+
+<section id="t8" aria-labelledby="h8">
+<h2 id="h8">Tela 8 – Acompanhamento familiar e profissional</h2>
+<p>Atualizações compartilhadas pela escola sobre Lucas M.</p>
+<ul class="lista">
+<li><strong>10/11:</strong> Montou frases de três símbolos com autonomia.</li>
+<li><strong>07/11:</strong> Concluiu a atividade de frações adaptada.</li>
+</ul>
+<p class="aviso">Você vê apenas o que foi liberado para o seu perfil.</p>
+</section>
+
+</main>
+
+<script>
+const S=[['🙋','Eu'],['🍽️','Comer'],['🥤','Beber'],['🚻','Banheiro'],['😊','Feliz'],['😢','Triste'],['🙏','Por
