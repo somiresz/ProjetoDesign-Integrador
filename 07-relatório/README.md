@@ -23,3 +23,4 @@ O relatório final unificado do grupo abrange os seguintes capítulos padronizad
 * **Referências e Apêndices:** Referências bibliográficas completas e os 4 Diários Individuais de Aprendizagem.
 
 ---
+lINK DO RELATÓRIO: https://docs.google.com/document/d/1tErEpsaycfYHwj3n92UhJ1vvhHfaMINf2Aha40r0kfY/edit?usp=sharing
