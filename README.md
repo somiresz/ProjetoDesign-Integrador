@@ -28,7 +28,6 @@ Este projeto tem como objetivo investigar as exigências do mercado de trabalho 
 | 02-identidade-profissional | Portfólios e planos de carreira |
 | 03-etica-e-ia | Estudos de caso e riscos |
 | 04-problema-social | Diagnóstico do problema |
-| 05-solucao-tecnologica | Requisitos e modelagem |
+| 05-solucao-tecnologica | Requisitos, modelagem e telas |
 | 06-testes | Avaliações e melhorias |
 | 07-relatorio | Relatório final |
-| 08-prototipo | telas |
