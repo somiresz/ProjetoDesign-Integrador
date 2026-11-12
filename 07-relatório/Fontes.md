@@ -1,4 +1,4 @@
-## Etapa 3 – Ética e Inteligência Artificial
+## Fontes da Etapa 3
 
 ### Caso 1 – COMPAS e viés algorítmico
 
