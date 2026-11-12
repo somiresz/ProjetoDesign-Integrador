@@ -1,39 +1,43 @@
-Etapa 1: mercado de trabalho
+## Etapa 3 – Ética e Inteligência Artificial
 
-Fonte primária: os 5 anúncios do LinkedIn que você colou. Registre assim:
+### Caso 1 – COMPAS e viés algorítmico
 
-BIP Brasil, SoftExpert e ABC Fitness: faltam os links. Abra cada vaga no LinkedIn e copie a URL.
-Yandeh: https://www.linkedin.com/jobs/view/4480493892/
-Donuz: https://www.linkedin.com/jobs/view/4472813358/
-Data de consulta: confirme a real (a planilha tem 06/11/2026 como suposição).
+O COMPAS (Correctional Offender Management Profiling for Alternative Sanctions) é um sistema utilizado no contexto da justiça criminal dos Estados Unidos para estimar o risco de reincidência de pessoas acusadas ou condenadas por crimes.
 
-Guarde print ou PDF de cada anúncio, porque vagas saem do ar.
+Em maio de 2016, a publicação investigativa ProPublica divulgou uma análise do sistema a partir de registros de pessoas avaliadas no condado de Broward, na Flórida. A investigação apontou diferenças nos tipos de erros cometidos pelo algoritmo entre pessoas negras e brancas. Segundo a análise, pessoas negras tinham maior probabilidade de serem classificadas como de alto risco e não cometerem novos delitos, enquanto pessoas brancas tinham maior probabilidade de serem classificadas como de baixo risco e posteriormente serem novamente presas.
 
-Busca exploratória do início do chat. Esses links estão nas minhas primeiras respostas (BNE, Jobijoba, Indeed, A Gazeta, MundoRH, TabNews). São páginas de listagem que mudam o tempo todo. Só cite uma se ela entrar de fato na amostra, com data de acesso.
+A empresa responsável pelo sistema, Northpointe, contestou a interpretação da ProPublica e defendeu seus critérios de avaliação. A ProPublica publicou uma resposta às críticas, mantendo suas conclusões e discutindo as diferentes formas de avaliar a imparcialidade de um algoritmo.
 
-Etapa 2: Perfis profissionais
-Os perfis profissionais estão no linkedin
+**Fontes consultadas:**
 
-Etapa 3: ética e IA (os dois casos do modelo)
+ANGWIN, Julia; LARSON, Jeff; MATTU, Surya; KIRCHNER, Lauren. *Machine Bias*. ProPublica, 23 maio 2016. Disponível em: https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing. 
 
-Caso Amazon. O sistema foi construído de 2014 a 2017 e rebaixava currículos com a palavra “women’s”. Há um ponto para constar no relatório: a Amazon afirmou que a ferramenta nunca foi usada por recrutadores para avaliar candidatos. 
-theladders
-theladders
+ANGWIN, Julia; LARSON, Jeff. *ProPublica Responds to Company’s Critique of Machine Bias Story*. ProPublica, 29 jul. 2016. Disponível em: https://www.propublica.org/article/propublica-responds-to-companys-critique-of-machine-bias-story.
 
-DASTIN, Jeffrey. Amazon scraps secret AI recruiting tool that showed bias against women. Reuters, 10 out. 2018. Republicação: https://www.euronews.com/2018/10/10/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women. Acesso em: 12 nov. 2026.
-Registro do caso: https://incidentdatabase.ai/reports/611 (AI Incident Database).
-Não consegui abrir o link original no site da Reuters, então vale procurá-lo e citar a versão original.
+LARSON, Jeff; ANGWIN, Julia. *Technical Response to Northpointe*. ProPublica, 29 jul. 2016. Disponível em: https://www.propublica.org/article/technical-response-to-northpointe.
 
-Caso Facebook/Cambridge Analytica. A FTC (agência americana de defesa do consumidor) aplicou multa de US$ 5 bilhões ao Facebook por violar uma decisão de 2012 sobre privacidade. Os dados de até 87 milhões de usuários ficaram sob controle da Cambridge Analytica. 
-ftc
-freepress
+### Caso 2 – Incidente de privacidade no ChatGPT em março de 2023
 
-FEDERAL TRADE COMMISSION. FTC Imposes $5 Billion Penalty and Sweeping New Privacy Restrictions on Facebook. Comunicado de imprensa, 24 jul. 2019. Disponível em: https://ftc.gov/news-events/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions. Acesso em: 12 nov. 2026.
-Referencial teórico (citado no modelo, não pesquisado hoje)
+Em 20 de março de 2023, o ChatGPT enfrentou uma falha técnica que permitiu que alguns usuários visualizassem títulos de conversas pertencentes a outras pessoas. A OpenAI informou posteriormente que a falha também poderia ter permitido a exposição de determinadas informações relacionadas a pagamentos de uma parcela dos assinantes do ChatGPT Plus que estavam ativos durante uma janela específica de nove horas.
 
-São documentos reais, mas eu os citei de memória. Abra cada um antes de usar:
+Entre as informações que poderiam ter ficado visíveis estavam nomes, endereços de e-mail, endereços de cobrança, tipo de cartão, os quatro últimos dígitos do cartão e data de validade. A empresa esclareceu que os números completos dos cartões de crédito não foram expostos.
 
-BRASIL. Lei nº 13.709/2018 (LGPD).
-BRASIL. Lei nº 12.965/2014 (Marco Civil da Internet).
-BRASIL. Lei nº 12.305/2010 (Política Nacional de Resíduos Sólidos). Os três textos estão em planalto.gov.br.
-W3C. Web Content Accessibility Guidelines (WCAG) 2.2, em w3.org/TR/WCAG22.
+Segundo a explicação técnica publicada pela OpenAI, o problema estava relacionado a uma falha na biblioteca de código aberto redis-py, utilizada na comunicação com o Redis Cluster. A empresa informou que corrigiu o problema, realizou verificações adicionais e comunicou os usuários potencialmente afetados.
+
+O caso demonstra a importância da proteção de dados pessoais, da segurança das integrações e da transparência das empresas responsáveis por sistemas digitais.
+
+**Fontes consultadas:**
+
+OPENAI. *March 20 ChatGPT outage: Here’s what happened*. 24 mar. 2023. Disponível em: https://openai.com/index/march-20-chatgpt-outage/.
+
+OPENAI STATUS. *ChatGPT Web Interface Incident*. Incidente de 20 e 21 mar. 2023. Disponível em: https://status.openai.com/incidents/jq9232rcmktd.
+
+METZ, Rachel. *OpenAI Shut Down ChatGPT to Fix Bug Exposing User Chat Titles*. Bloomberg, 21 mar. 2023. Disponível em: https://news.bloomberglaw.com/private-equity/openai-shut-down-chatgpt-to-fix-bug-exposing-user-chat-titles.
+
+### Relação entre os casos
+
+Os dois casos demonstram que a utilização de tecnologias digitais e sistemas de inteligência artificial envolve responsabilidades que vão além do funcionamento técnico.
+
+O COMPAS evidencia preocupações relacionadas à discriminação algorítmica, à transparência e à justiça nas decisões automatizadas. Já o incidente do ChatGPT demonstra a importância da segurança da informação e da proteção dos dados pessoais.
+
+Essas situações reforçam a necessidade de avaliação contínua dos sistemas, supervisão humana, transparência e responsabilidade profissional no desenvolvimento de tecnologias.
