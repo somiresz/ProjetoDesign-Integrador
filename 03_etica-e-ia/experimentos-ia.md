@@ -30,8 +30,8 @@ O objetivo dos experimentos é analisar a utilização de diferentes ferramentas
 
   "Escreva uma consulta SQL para extrair a média de vendas por cliente e otimizar a estrutura para um banco de dados PostgreSQL."
 
-- **Resposta obtida:** A preencher com o resultado real do experimento.
-- **Avaliação crítica:** A preencher após analisar a resposta.
+- **Resposta obtida:** A ferramenta apresentou uma consulta SQL utilizando as operações AVG(), INNER JOIN, GROUP BY e ORDER BY para calcular a média do valor das vendas de cada cliente e organizar os resultados em ordem decrescente.
+- **Avaliação crítica:** A inteligência artificial apresentou uma solução inicial útil e bem organizada, mas sua resposta precisa ser adaptada à estrutura real do banco de dados e testada antes de ser considerada otimizada. A ferramenta auxiliou na construção da consulta, porém não substitui a análise do desenvolvedor nem a validação do desempenho em um ambiente real.
 
 ### Experimento 3 – Modelos de inteligência artificial
 
