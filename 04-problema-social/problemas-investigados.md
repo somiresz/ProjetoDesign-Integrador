@@ -1,9 +1,6 @@
 # Problemas Sociais e Ambientais Investigados
 
-Nº	Problema Investigado	Por que é Grave?	Principais Causas	Público Afetado	Soluções Existentes no Mercado
-1	Barreiras de Acessibilidade Digital	Transforma a internet em um ambiente de exclusão, impedindo o acesso autônomo a bancos, saúde, educação e serviços públicos.	Falta de cultura inclusiva em equipes de TI; baixa fiscalização das leis de acessibilidade de sites (ex: WCAG / eMAG).	Direto: Pessoas com deficiência (PcD) e idosos. Indireto: Cuidadores e familiares.	Hand Talk (Tradutor de Libras por IA); EqualWeb (Acessibilidade Digital e Consultoria WCAG).
-2	Falta de Mobilidade Urbana e Acessibilidade Física	Impede o direito constitucional de ir e vir, confinando pessoas aos seus lares e restringindo o acesso a calçadas, comércios e transportes públicos.	Planejamento urbano histórico sem foco em inclusão; falta de manutenção em calçadas e frotas de transporte público.	Direto: Cadeirantes, amputados, pessoas com mobilidade reduzida e cegos. Indireto: Usuários de carrinhos de bebê e pedestres.	Guiaderodas (Guia colaborativo de locais acessíveis); Kit Livre (Tecnologia para motorizar cadeiras de rodas).
-3	Barreiras na Comunicação e Educação Inclusiva	Escolas e materiais didáticos falham em se comunicar com alunos neurodivergentes ou com deficiências sensoriais, gerando evasão e atraso escolar.	Falta de formação de professores em ferramentas inclusivas; escassez de materiais didáticos adaptados em larga escala.	Direto: Alunos com autismo, TDAH, surdos, cegos e disléxicos. Indireto: Educadores, escolas e pais.	Matraquinha / Cangame (Comunicação alternativa para autistas); DOMlexia (Jogos e suporte ao diagnóstico de dislexia).
+
 
 ## 1. Apresentação
 
