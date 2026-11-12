@@ -1,6 +1,6 @@
 # ETAPA 6 – TESTES, VALIDAÇÃO E APERFEIÇOAMENTO
 
-Nesta etapa, documentou-se o processo de avaliação exploratória do protótipo da plataforma **SynapseEdu** e como os resultados obtidos orientaram as melhorias de usabilidade e interface.
+Nesta etapa, documentou-se o processo de avaliação exploratória do protótipo da plataforma **Mosaico** e como os resultados obtidos orientaram as melhorias de usabilidade e interface.
 
 ---
 
