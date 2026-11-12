@@ -10,7 +10,7 @@ O objetivo é contribuir para a construção de um ambiente educacional mais ace
 
 ## 2. Identificação da solução
 
-**Nome provisório:** ConectaInclusão
+**Nome:** Mosaico
 
 **Tipo:** Plataforma digital de comunicação assistiva e apoio pedagógico inclusivo.
 
