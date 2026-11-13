@@ -2,7 +2,7 @@
 
 ## Apresentação
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente no 1º período, com interesse na área de Tecnologia da Informação e desenvolvimento de software.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente no 2º período, com interesse na área de Tecnologia da Informação e desenvolvimento de software.
 
 Estou construindo minha base de conhecimentos em programação e desenvolvimento web, buscando oportunidades para colocar em prática o que aprendo durante minha formação.
 
