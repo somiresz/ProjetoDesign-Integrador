@@ -14,8 +14,6 @@ Vagas para desenvolvedor Frond-end junior: https://www.linkedin.com/jobs/search-
 
 ### Os perfis profissionais foram tirados do proprio git hub e linkedin
 
-## Fontes da Etapa 3
-
 ## Fontes da Etapa 4
 
 ### Caso 1 – COMPAS e viés algorítmico
@@ -61,3 +59,7 @@ O COMPAS evidencia preocupações relacionadas à discriminação algorítmica, 
 Essas situações reforçam a necessidade de avaliação contínua dos sistemas, supervisão humana, transparência e responsabilidade profissional no desenvolvimento de tecnologias.
 
 ## Etapa 5
+
+### Solução Tecnologica
+
+-Na **Etapa 5 (Solução Tecnológica)**, o foco do projeto volta-se para a estruturação técnica e funcional do sistema, consolidando requisitos, protótipos, fluxos de modelagem e histórias de usuário. Diante das poucas fontes nessa etapa, mostrou-se mais viavel o auxilio da IA do que sem, por isso, o uso de ferramentas de Inteligência Artificial — como o Claude Code — mostrou-se indispensável. A IA atuou como um suporte estratégico para suprir a falta de documentação prévia, auxiliando na tradução das ideias iniciais em artefatos técnicos padronizados, acelerando a criação das modelagens e garantindo maior clareza, consistência e qualidade na definição das histórias de usuário.
