@@ -90,11 +90,9 @@ As telas também deverão considerar diferentes necessidades de acesso, incluind
 
 ## 6. Situação do protótipo
 
-**Ferramenta prevista:** Figma ou Penpot.
+**Ferramenta prevista:** Figma
 
-**Link do protótipo:** A preencher após a criação.
-
-**Estado atual:** Estrutura e telas planejadas. Protótipo visual ainda deverá ser elaborado.
+**Link do protótipo:** https://www.figma.com/community/file/1702884991442857938/prototipo-do-aplicativo-mosaico?fuid=1619309372874056007
 
 ## 7. Resultado esperado
 
