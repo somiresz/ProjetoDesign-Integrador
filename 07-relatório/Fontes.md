@@ -14,7 +14,7 @@ Vagas para desenvolvedor Frond-end junior: https://www.linkedin.com/jobs/search-
 
 ### Os perfis profissionais foram tirados do proprio git hub e linkedin
 
-## Fontes da Etapa 4
+## Fontes da Etapa 3
 
 ### Caso 1 – COMPAS e viés algorítmico
 
