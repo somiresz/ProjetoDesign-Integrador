@@ -1,4 +1,22 @@
+## Fontes da Etapa 1 - Vagas de emprego
+
+###As vagas de emprego usadas foram buscadas no Linkedin
+
+Vagas para desenvolvedor Full stack: https://www.linkedin.com/jobs/search-results/?currentJobId=4480493892&keywords=desenvolvedor%20full-stack%20junior&origin=SUGGESTION
+
+Vagas para desenvolvedor analista de dados junior: linkedin.com/jobs/search-results/?keywords=desenvolvedor%20analista%20de%20dados%20junior%20&origin=SEMANTIC_SEARCH_HISTORY&geoId=106057199
+
+Vagas para desenvolvedor Back-end junior: https://www.linkedin.com/jobs/search-results/?currentJobId=4474405882&keywords=desenvolvedor%20back%20end%20end%20junior%20&origin=SEMANTIC_SEARCH_HISTORY&geoId=106057199
+
+Vagas para desenvolvedor Frond-end junior: https://www.linkedin.com/jobs/search-results/?currentJobId=4482749971&keywords=desenvolvedor%20front%20end%20junior%20&origin=SEMANTIC_SEARCH_HISTORY&geoId=106057199
+
+## Fontes etapa 2 - Perfil profissional
+
+### Os perfis profissionais foram tirados do proprio git hub e linkedin
+
 ## Fontes da Etapa 3
+
+## Fontes da Etapa 4
 
 ### Caso 1 – COMPAS e viés algorítmico
 
@@ -41,3 +59,5 @@ Os dois casos demonstram que a utilização de tecnologias digitais e sistemas d
 O COMPAS evidencia preocupações relacionadas à discriminação algorítmica, à transparência e à justiça nas decisões automatizadas. Já o incidente do ChatGPT demonstra a importância da segurança da informação e da proteção dos dados pessoais.
 
 Essas situações reforçam a necessidade de avaliação contínua dos sistemas, supervisão humana, transparência e responsabilidade profissional no desenvolvimento de tecnologias.
+
+## Etapa 5
